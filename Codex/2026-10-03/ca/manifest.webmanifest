@@ -1,0 +1,13 @@
+{
+  "name": "YourKitchen — Recipes for your mood",
+  "short_name": "YourKitchen",
+  "description": "Choose a cooking mood and find something delicious to make.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f1",
+  "theme_color": "#f6f7f1",
+  "icons": [
+    { "src": "assets/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" }
+  ]
+}

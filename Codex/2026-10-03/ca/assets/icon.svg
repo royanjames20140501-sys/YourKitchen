@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="A cheerful cooking pot with steam">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7f65"/>
+      <stop offset="1" stop-color="#ed4f9c"/>
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8b69e8"/>
+      <stop offset="1" stop-color="#6546cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#tile)"/>
+  <circle cx="256" cy="256" r="202" fill="#fff8eb" opacity=".24"/>
+  <g fill="none" stroke="#fff9ef" stroke-linecap="round" stroke-width="22">
+    <path d="M190 170c-26-27-15-57 5-75"/>
+    <path d="M256 156c-23-29-12-58 8-79"/>
+    <path d="M322 170c-20-26-12-51 8-71"/>
+  </g>
+  <g stroke="#382648" stroke-linejoin="round" stroke-width="16">
+    <path d="M119 275h-25c-19 0-34 15-34 34s15 34 34 34h29" fill="#ffbd59"/>
+    <path d="M393 275h25c19 0 34 15 34 34s-15 34-34 34h-29" fill="#ffbd59"/>
+    <path d="M139 248h234l-18 139c-4 31-30 54-61 54h-76c-31 0-57-23-61-54l-18-139Z" fill="url(#pot)"/>
+    <path d="M125 245c0-17 14-31 31-31h200c17 0 31 14 31 31v13H125v-13Z" fill="#ffbd59"/>
+    <path d="M218 207h76c0-21-16-38-38-38s-38 17-38 38Z" fill="#ffe5a7"/>
+  </g>
+  <path d="M204 310c12-12 23-12 35 0 12-12 23-12 35 0 12-12 23-12 35 0" fill="none" stroke="#ffe5a7" stroke-linecap="round" stroke-width="13"/>
+  <g fill="#fff8eb">
+    <circle cx="210" cy="352" r="9"/>
+    <circle cx="302" cy="352" r="9"/>
+  </g>
+  <path d="M228 376c8 10 17 15 28 15s20-5 28-15" fill="none" stroke="#fff8eb" stroke-linecap="round" stroke-width="10"/>
+</svg>
